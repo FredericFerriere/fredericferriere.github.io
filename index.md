@@ -1,4 +1,6 @@
-
+[Services](./index.md)
+[Projets](./projets.md)
+[A Propos](./apropos.md)
 
 # Les Services proposés
 
@@ -14,7 +16,7 @@ Je suis à votre écoute pour des problématiques:
 Champs d'application:
 <ul>Forecasting & Planning</ul>
 <ul>Marketing: segmentation clients, attribution, churn</ul>
-<ul>Optimisation Supply Chain</ul>
+<ul>Optimisation Flux/Supply Chain</ul>
 
 
 Contact: [fredericferriere78@gmail.com](mailto: fredericferriere78@gmail.com)
