@@ -28,7 +28,6 @@
 </p><br>
 </div>
 
-Contact: [fredericferriere78@gmail.com](mailto:fredericferriere78@gmail.com)<br>
 
 Passionné par les sujets tech, data, innovation, et en particulier:  
 1) l'application de l'IA aux problématiques smart city et environnement  
