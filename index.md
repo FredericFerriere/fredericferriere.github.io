@@ -1,17 +1,19 @@
 # A propos de moi
 
 <div>
-    <p style="float: right;"><img src="./images/FredericFerriere_2_bw.jpg" width="300px" border="1px"></p>
+    <p style="float: right;"><img src="./images/FredericFerriere_2_bw.jpg" width="400px" border="1px"></p>
     <p>
     Data Scientist Freelance<br><br>
     A votre écoute pour des problématiques:<br>
-    Analyse de Données<br>
-    Mise en place de tableaux de bord<br>
-    Automatisation de process<br>
-    Optimisation Supply Chain<br>
-    Marketing et Segmentation Clients<br>
-    Architecture Data/Cloud<br><br>
-    Contact: [fredericferriere78@gmail.com](mailto:fredericferriere78@gmail.com)<br><br>
+    - Analyse de Données<br>
+    - Mise en place de tableaux de bord<br>
+    - Automatisation de process<br>
+    - Optimisation Supply Chain<br>
+    - Marketing et Segmentation Clients<br>
+    - Architecture Data/Cloud<br><br>
+    <b>Contact:</b>
+    <a>fredericferriere78@gmail.com</a>
+    <br><br>
     <b>Compétences</b><br>
     DataScience, Data Analysis, Cloud AWS<br>
     Statistiques, Probabilités Optimisation, Modélisation<br>
@@ -26,6 +28,7 @@
 </p><br>
 </div>
 
+Contact: [fredericferriere78@gmail.com](mailto:fredericferriere78@gmail.com)<br>
 
 Passionné par les sujets tech, data, innovation, et en particulier:  
 1) l'application de l'IA aux problématiques smart city et environnement  
