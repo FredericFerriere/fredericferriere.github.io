@@ -5,23 +5,26 @@
     <p>
     Data Scientist Freelance<br><br>
     A votre écoute pour des problématiques:<br>
-    Automatisation de process/analyses<br>
+    Analyse de Données<br>
+    Mise en place de tableaux de bord<br>
+    Automatisation de process<br>
     Optimisation Supply Chain<br>
     Marketing et Segmentation Clients<br>
     Architecture Data/Cloud<br><br>
+    Contact: [fredericferriere78@gmail.com](mailto:fredericferriere78@gmail.com)<br><br>
     <b>Compétences</b><br>
     DataScience, Data Analysis, Cloud AWS<br>
     Statistiques, Probabilités Optimisation, Modélisation<br>
     Python, VBA, Excel, C<br><br>
+    <b>Expérience professionnelle</b><br>  
+    Différents métiers en finance (risques de marché, analyse quantitative, trading)<br>
+    Expertise en modélisation, programmation, gestion de projets<br><br>
     <b>Formation</b><br>
     Msc Management HEC<br>
     M1 mathématiques appliquées <br>
     M2 DataScience et Intelligence Artificielle<br><br>
-    <b>Expérience professionnelle</b><br>  
-    Différents métiers en finance (risques de marché, analyse quantitative, trading)<br>
-    Expertise en modélisation, programmation, gestion de projets<br>
-</div>
 </p><br>
+</div>
 
 
 Passionné par les sujets tech, data, innovation, et en particulier:  
