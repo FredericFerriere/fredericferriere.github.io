@@ -2,19 +2,19 @@
 
 # A propos de moi
 
-![](./images/FredericFerriere_2_bw.jpg)
+<img src="./images/FredericFerriere_2_bw.jpg" alt="drawing" width="250"/>
 
-Formation:
+<b>Formation</b>  
 Msc Management HEC  
 M1 mathématiques appliquées  
 M2 DataScience et Intelligence Artificielle  
 
-Expérience professionnelle:  
+<b>Expérience professionnelle</b>  
 Différents métiers en finance (risques de marché, analyse quantitative, trading)  
 Expertise en modélisation, programmation, gestion de Projets
 
-Passionné par les sujets tech, data, innovation, et en particulier:
-1) l'utilisation de l'IA aux problématiques smart city et environnement
+Passionné par les sujets tech, data, innovation, et en particulier:  
+1) l'application de l'IA aux problématiques smart city et environnement  
 2) la valorisation de la data comme un actif des acteurs économiques
 
 
