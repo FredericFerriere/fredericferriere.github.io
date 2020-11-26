@@ -19,4 +19,9 @@ Secteurs d'activité:
 <ul>Outdoor</ul>
 <ul>Tourisme & territoires</ul>
 
+Passionné par les sujets tech, data, innovation, et en particulier:  
+1) l'application de l'IA aux problématiques smart city et environnement  
+2) la valorisation de la data comme un actif des acteurs économiques
+
+
 Contact: [fredericferriere78@gmail.com](mailto: fredericferriere78@gmail.com)
