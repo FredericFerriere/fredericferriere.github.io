@@ -2,6 +2,11 @@
 [Projets](./projets.md)
 [A Propos](./apropos.md)
 
+<div>
+<a href="#projets">Services</a>
+<a href="#projets">Projets</a>
+<a href="#services">A Propos</a>
+</div>
 
 # Projets
 
