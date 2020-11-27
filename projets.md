@@ -3,9 +3,9 @@
 [A Propos](./apropos.md)
 
 <div>
-<a href="./index.md">Services</a>
-<a href="./projets.md">Projets</a>
-<a href./apropos.md">A Propos</a>
+<a href="./index.html">Services</a>
+<a href="./projets.html">Projets</a>
+<a href="./apropos.html">A Propos</a>
 </div>
 
 # Projets
