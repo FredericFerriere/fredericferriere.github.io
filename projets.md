@@ -1,7 +1,3 @@
-[Services](./index.md)
-[Projets](./projets.md)
-[A Propos](./apropos.md)
-
 <div>
 <a href="./index.html">Services</a>
 <a href="./projets.html">Projets</a>
